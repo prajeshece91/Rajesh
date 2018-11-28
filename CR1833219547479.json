@@ -1,0 +1,21 @@
+<XML>
+   <CR_Detail>
+      <number>CR1833219547</number>
+      <title>Test12</title>
+      <createdName>jMiller</createdName>
+      <description>Test12</description>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup2</optionKey>
+         <currValue>eeeeeeeeeee</currValue>
+         <applyValue>123123</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <id>0</id>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
