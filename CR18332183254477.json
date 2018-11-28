@@ -1,0 +1,21 @@
+<XML>
+   <CR_Detail>
+      <number>CR18332183254</number>
+      <title>Tesr</title>
+      <createdName>jMiller</createdName>
+      <description>Test</description>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>Test</secKey>
+         <optionKey>Password</optionKey>
+         <currValue>123trrt</currValue>
+         <applyValue>123trrt123</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <id>0</id>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
