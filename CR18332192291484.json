@@ -1,0 +1,49 @@
+<XML>
+   <CR_Detail>
+      <number>CR18332192291</number>
+      <title>Demo CR</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>Demo CR for Github service</description>
+      <targetUserName>jMiller</targetUserName>
+      <targetUserPassword></targetUserPassword>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup1</optionKey>
+         <currValue>test123</currValue>
+         <applyValue>test123</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup2</optionKey>
+         <currValue>123123</currValue>
+         <applyValue>Test1</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup4</optionKey>
+         <currValue>testdfgdfg</currValue>
+         <applyValue>Test2</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <id>0</id>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
