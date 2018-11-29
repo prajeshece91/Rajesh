@@ -20,7 +20,7 @@
          <secKey>AverAbandCallTime</secKey>
          <optionKey>call-cleanup1</optionKey>
          <currValue>test123</currValue>
-         <applyValue>test123</applyValue>
+         <applyValue>test12345</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -30,7 +30,7 @@
          <secKey>AverAbandCallTime</secKey>
          <optionKey>call-cleanup2</optionKey>
          <currValue>123123</currValue>
-         <applyValue>Test1</applyValue>
+         <applyValue>Test14564</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -40,7 +40,7 @@
          <secKey>AverAbandCallTime</secKey>
          <optionKey>call-cleanup4</optionKey>
          <currValue>testdfgdfg</currValue>
-         <applyValue>Test2</applyValue>
+         <applyValue>Test24564</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <id>0</id>
