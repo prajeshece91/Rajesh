@@ -1,0 +1,50 @@
+<XML>
+   <CR_Detail>
+      <number>CR18332192291_18334133160</number>
+      <title>Demo CR</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>default</createdName>
+      <description>Demo CR for Github service</description>
+      <plannedTime>2018-11-29 00:00:00.0</plannedTime>
+      <targetUserName>default</targetUserName>
+      <targetUserPassword>X93X105X-20X-60X-19X-100X-54X110</targetUserPassword>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup1</optionKey>
+         <currValue>test123</currValue>
+         <applyValue>test12345</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup2</optionKey>
+         <currValue>123123</currValue>
+         <applyValue>Test14564</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <propTab>Annex</propTab>
+         <secKey>AverAbandCallTime</secKey>
+         <optionKey>call-cleanup4</optionKey>
+         <currValue>testdfgdfg</currValue>
+         <applyValue>Test24564</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <id>0</id>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
