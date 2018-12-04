@@ -1,0 +1,37 @@
+<XML>
+   <CR_Detail>
+      <number>CR18338173987</number>
+      <title>Test111</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>11</description>
+      <plannedTime>2018-12-05 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Migration</propTab>
+         <secKey></secKey>
+         <optionKey></optionKey>
+         <currValue>NortelTServer@123</currValue>
+         <applyValue>NortelTServer@123343</applyValue>
+         <actionType>Create[migration]</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>elango@1</objectName>
+         <propTab>Migration</propTab>
+         <secKey></secKey>
+         <optionKey></optionKey>
+         <currValue>elango@1</currValue>
+         <applyValue>elango@123424</applyValue>
+         <actionType>Create[migration]</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
