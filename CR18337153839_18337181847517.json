@@ -1,0 +1,27 @@
+<XML>
+   <CR_Detail>
+      <number>CR18337153839_18337181847</number>
+      <title>Test DEMO</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>default</createdName>
+      <description>TTT</description>
+      <plannedTime>2018-12-10 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Test-111-</objectName>
+         <propTab>General</propTab>
+         <secKey>State</secKey>
+         <optionKey></optionKey>
+         <currValue>Disabled</currValue>
+         <applyValue>Enabled</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
