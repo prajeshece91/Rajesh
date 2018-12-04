@@ -1,0 +1,17 @@
+<XML>
+   <CR_Detail>
+      <number>CR18338193296</number>
+      <title>Test111</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>default</createdName>
+      <description>11CR Migrated from CR number : CR18338173987</description>
+      <plannedTime>2018-12-05 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
