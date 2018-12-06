@@ -1,0 +1,47 @@
+<XML>
+   <CR_Detail>
+      <number>CR18340153220</number>
+      <title>Test123</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>default</createdName>
+      <description>CR Migrated from CR number : CR18340153112</description>
+      <plannedTime>2018-12-06 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>Test</secKey>
+         <optionKey>Password</optionKey>
+         <currValue>123werwre</currValue>
+         <applyValue>123werwre</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>1</secKey>
+         <optionKey>1</optionKey>
+         <currValue>wer</currValue>
+         <applyValue>wer</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>t</secKey>
+         <optionKey>t</optionKey>
+         <currValue>1231werw</currValue>
+         <applyValue>1231werw</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
