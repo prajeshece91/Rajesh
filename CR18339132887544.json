@@ -1,0 +1,35 @@
+<XML>
+   <CR_Detail>
+      <number>CR18339132887</number>
+      <title>TesT12313</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>default</createdName>
+      <description>CR Migrated from CR number : CR18339131890</description>
+      <plannedTime>2018-12-06 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>elango@1</objectName>
+         <secKey></secKey>
+         <optionKey></optionKey>
+         <currValue>elango@1fghf</currValue>
+         <applyValue>elango@1fghf</applyValue>
+         <actionType>Create[migration]</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>TServer_Nortel</objectName>
+         <secKey></secKey>
+         <optionKey></optionKey>
+         <currValue>TServer_Nortelfghfg</currValue>
+         <applyValue>TServer_Nortelfghfg</applyValue>
+         <actionType>Create[migration]</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
