@@ -18,7 +18,7 @@
          <secKey>Test</secKey>
          <optionKey>_capacity_2</optionKey>
          <currValue></currValue>
-         <applyValue>12313</applyValue>
+         <applyValue>vvv</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -28,7 +28,7 @@
          <secKey>Test</secKey>
          <optionKey>_capacity_1</optionKey>
          <currValue></currValue>
-         <applyValue>123123</applyValue>
+         <applyValue>uuu</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -38,7 +38,7 @@
          <secKey>Test</secKey>
          <optionKey>_capacity</optionKey>
          <currValue></currValue>
-         <applyValue>1231232</applyValue>
+         <applyValue>ttt</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -48,7 +48,7 @@
          <secKey></secKey>
          <optionKey></optionKey>
          <currValue>TServer_AvayaTSAPI_UUU</currValue>
-         <applyValue>TServer_AvayaTSAPI_UUU</applyValue>
+         <applyValue>TServer_AvayaTSAPI_UUU123</applyValue>
          <actionType>Create[migration]</actionType>
       </Change_Details>
       <Change_Details>
@@ -58,10 +58,10 @@
          <secKey></secKey>
          <optionKey></optionKey>
          <currValue>TServer_Nortel_TTT</currValue>
-         <applyValue>TServer_Nortel_TTT</applyValue>
+         <applyValue>TServer_Nortel_TTT123</applyValue>
          <actionType>Create[migration]</actionType>
       </Change_Details>
    </CR_Detail>
    <EmailNotification></EmailNotification>
-   <ApplyNotes></ApplyNotes>
+   <ApplyNotes>APPLIED</ApplyNotes>
 </XML>
