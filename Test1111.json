@@ -18,7 +18,7 @@
          <secKey>sml</secKey>
          <optionKey>uninstall</optionKey>
          <currValue>222323tt123fgfgr</currValue>
-         <applyValue>ffgfgr</applyValue>
+         <applyValue>ghfghfgh</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -28,7 +28,7 @@
          <secKey>1</secKey>
          <optionKey>1</optionKey>
          <currValue>1122dffgd</currValue>
-         <applyValue>v</applyValue>
+         <applyValue>fghgfhfv</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
       <Change_Details>
@@ -38,7 +38,7 @@
          <secKey></secKey>
          <optionKey></optionKey>
          <currValue>elango@111</currValue>
-         <applyValue>elango@111</applyValue>
+         <applyValue>fhfhfghf@111</applyValue>
          <actionType>Create[migration]</actionType>
       </Change_Details>
       <Change_Details>
@@ -48,7 +48,7 @@
          <secKey></secKey>
          <optionKey></optionKey>
          <currValue>NortelTServer@12311</currValue>
-         <applyValue>NortelTServer@12311</applyValue>
+         <applyValue>NortelTSfghfhfhferver@12311</applyValue>
          <actionType>Create[migration]</actionType>
       </Change_Details>
    </CR_Detail>
